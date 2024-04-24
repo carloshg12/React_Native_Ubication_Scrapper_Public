@@ -21,13 +21,6 @@ To ensure the application functions correctly, you need to configure the environ
 ## Usage
 To use this program, you will need to make HTTP requests to the provided endpoints. Ensure to include `Content-Type: application/json` in the request headers.
 
-### Test User
-To test the application without storing real data, you can use the following test user credentials:
-- **Username:** test_user
-- **Password:** test_password
-
-This user is configured not to perform operations that permanently alter the database, making it ideal for testing purposes.
-
 ---
 
 # React Native Ubication Scrapper
@@ -53,10 +46,3 @@ Para que la aplicación funcione correctamente, necesitas configurar las variabl
 
 ## Uso
 Para utilizar este programa, deberás realizar solicitudes HTTP a los endpoints proporcionados. Asegúrate de incluir en el encabezado de la solicitud el `Content-Type` como `application/json`.
-
-### Usuario de prueba
-Para probar la aplicación sin guardar datos reales, puedes usar el siguiente usuario de prueba:
-- **Username:** test_user
-- **Password:** test_password
-
-Este usuario está configurado para no realizar operaciones que alteren la base de datos de manera permanente, ideal para realizar pruebas.
