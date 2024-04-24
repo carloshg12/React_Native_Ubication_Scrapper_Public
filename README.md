@@ -1,5 +1,4 @@
-# Application Name
-TransBetxi Ubication Scrapper
+# React Native Ubication Scrapper
 
 ## Description
 This program tracks and stores the location of registered users in a database. It is ideal for applications that need to monitor or maintain a log of user locations efficiently and securely.
@@ -31,7 +30,7 @@ This user is configured not to perform operations that permanently alter the dat
 
 ---
 
-# Nombre de la Aplicación
+# React Native Ubication Scrapper
 TransBetxi Ubication Scrapper
 
 ## Descripción
